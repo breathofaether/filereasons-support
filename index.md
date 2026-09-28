@@ -22,8 +22,14 @@ You don’t need to send us your tracked files or folders.
 ### Does File Reasons move or delete my files?
 
 No. It stores a reference to the item, your reason, review date,
-and optional release condition. Stopping tracking removes the
-record and its reminder, not the original file or folder.
+and optional release condition.
+
+### Archive and restore items
+Archive an item when you no longer need to actively track it. Its reason, saved review date, and file reference remain available in Archive, and its review reminders stop.
+
+Choose Restore to return it to All Items. Its original review date is preserved. Items due today or overdue also appear in Due for Review. Future reminders resume when reminders are enabled.
+
+Archiving does not move or delete the original file or folder.
 
 ### Where are my records stored?
 
