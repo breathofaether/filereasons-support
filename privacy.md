@@ -24,8 +24,7 @@ You choose which files or folders the app can access.
 The app uses that access to identify items and reveal them in Finder.
 It does not upload their contents or scan a selected folder's contents.
 
-Stopping tracking removes the app's record and associated reminder.
-It does not delete the original file or folder.
+Archiving retains the item’s record locally on your Mac, including its file reference, reason, saved review date, and optional release condition. Archiving cancels the item’s pending review reminder; it does not delete the record or the original file or folder. Restoring returns the record to active tracking.
 
 ## Notifications
 
