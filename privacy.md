@@ -26,6 +26,8 @@ It does not upload their contents or scan a selected folder's contents.
 
 Archiving retains the item’s record locally on your Mac, including its file reference, reason, saved review date, and optional release condition. Archiving cancels the item’s pending review reminder; it does not delete the record or the original file or folder. Restoring returns the record to active tracking.
 
+You can permanently remove an archived record by choosing Stop tracking and confirming. This removes its saved file reference, reason, review date, and optional release condition from the app’s records on this Mac. It does not delete the original file or folder. Copies retained in device backups are managed separately by your backup system.
+
 ## Notifications
 
 With your permission, File Reasons schedules local review notifications
